@@ -1,0 +1,13 @@
+{
+  "key.category.autologin.main": "AutoLogin",
+  "key.autologin.open_settings": "Открыть настройки",
+  "key.autologin.toggle": "Вкл/выкл AutoLogin",
+  "autologin.screen.title": "Настройки AutoLogin",
+  "autologin.screen.enabled": "AutoLogin: %s",
+  "autologin.screen.password": "Пароль",
+  "autologin.screen.show": "Показать",
+  "autologin.screen.hide": "Скрыть",
+  "autologin.message.enabled": "AutoLogin включён",
+  "autologin.message.disabled": "AutoLogin выключен",
+  "autologin.message.sent": "AutoLogin: /login отправлен"
+}
